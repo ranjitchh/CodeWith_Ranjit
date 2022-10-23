@@ -1,1 +1,2 @@
-Java handwritten notes will be provided chapter wise
+Java handwritten notes and Codes will be provided chapter wise
+who are willing to learn and gain knowledge in the field of Coding and development...
