@@ -22,3 +22,9 @@ public class FormatOutput { // user defined class
          
     }
 }
+Output :
+        20
+        the given number is 20
+        the given two numbers are 2030
+        the sum of two numbers are=50
+        50
